@@ -1,0 +1,213 @@
+.amta-wrap{--amta-ink:#1b2b40;--amta-muted:#6b7c91;--amta-line:#e3eaf0;--amta-green:#147b53;--amta-soft:#e8f6ed;--amta-bg:#f5f8fb;max-width:1320px;margin:22px 28px 40px 8px;color:var(--amta-ink);font-size:14px}
+.amta-wrap *{box-sizing:border-box}.amta-wrap h1,.amta-wrap h2,.amta-wrap p{margin-top:0}.amta-wrap a{text-decoration:none}.amta-wrap .dashicons{width:auto;height:auto;line-height:1}
+.amta-header{display:flex;gap:17px;align-items:center;margin-bottom:24px}.amta-logo{width:62px;height:62px;flex:none;display:grid;place-items:center;color:#fff;background:linear-gradient(145deg,#23a678,#0d654b);border-radius:18px;box-shadow:0 10px 25px rgba(20,123,83,.17)}.amta-logo .dashicons{font-size:33px}.amta-heading{flex:1}.amta-eyebrow,.amta-overline{display:block;font-size:10px;font-weight:800;letter-spacing:2px;color:var(--amta-green);margin-bottom:8px}.amta-heading h1{font-size:30px;font-weight:750;line-height:1.1;letter-spacing:-1px;color:var(--amta-ink);padding:0;margin:0 0 6px}.amta-heading p{font-size:13px;color:var(--amta-muted);margin:0}.amta-version{font-size:10px;font-weight:700;padding:5px 8px;border-radius:6px;background:#e7efe9;color:#418260;vertical-align:middle;margin-left:10px;letter-spacing:0}.amta-header-link{display:inline-flex;align-items:center;gap:9px;border:1px solid #bfdbcb;background:#fff;color:var(--amta-green);font-weight:700;border-radius:9px;padding:12px 16px;white-space:nowrap}.amta-header-link:hover{color:#085936;background:#eef8f1}
+.amta-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;margin-bottom:18px}.amta-stat,.amta-panel{background:#fff;border:1px solid var(--amta-line);border-radius:14px;box-shadow:0 3px 16px rgba(31,53,79,.025)}.amta-stat{padding:22px 24px;display:flex;flex-direction:column;min-height:143px}.amta-stat-label{display:flex;align-items:center;gap:9px;color:#5c6a7c;font-size:13px;font-weight:650}.amta-dot{width:9px;height:9px;display:inline-block;border-radius:100%}.amta-green{background:#20b772}.amta-orange{background:#f5a62c}.amta-gray{background:#8294a8}.amta-stat strong{font-size:36px;line-height:1.4;letter-spacing:-1.5px;color:var(--amta-ink)}.amta-stat small{color:#8290a1;font-size:11px}.amta-stat .dashicons{font-size:16px;color:#8495a6}
+.amta-columns{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(330px,.8fr);gap:18px;margin-bottom:18px}.amta-panel{padding:28px 30px}.amta-panel-heading{margin-bottom:24px}.amta-panel-heading h2{font-size:20px;line-height:1.35;color:var(--amta-ink);font-weight:750;letter-spacing:-.4px;margin:0 0 7px}.amta-panel-heading p{margin:0;color:var(--amta-muted);font-size:12px}.amta-form{display:flex;flex-direction:column;gap:19px}.amta-field{display:flex;flex-direction:column;gap:8px;min-width:0}.amta-field label{font-weight:700;color:#324158;font-size:12px}.amta-required{color:#dd475c}.amta-optional{font-weight:400;color:#8392a2;margin-left:4px}.amta-field input:not([type=checkbox]),.amta-field select{width:100%;max-width:none;min-height:43px;padding:8px 12px;border:1px solid #dce5ee;border-radius:8px;background:#fff;color:#22334b;box-shadow:none}.amta-field input:focus,.amta-field select:focus{border-color:#168c62;box-shadow:0 0 0 3px rgba(22,140,98,.11)}.amta-field small{line-height:1.5;color:#8290a1;font-size:11px}.amta-form-grid{display:grid;grid-template-columns:1fr 1fr;gap:17px}.amta-wrap .amta-submit{display:inline-flex;align-items:center;justify-content:center;gap:11px;background:#138358;border-color:#138358;border-radius:8px;min-height:45px;margin-top:3px;font-weight:700;padding:0 23px}.amta-wrap .amta-submit:hover,.amta-wrap .amta-submit:focus{background:#0d6346;border-color:#0d6346}.amta-wrap .amta-submit .dashicons{font-size:17px}.amta-admin-warning{border:1px solid #f0d2a0;border-radius:10px;background:#fff8e8;padding:15px;color:#80521a}.amta-admin-warning p{margin:5px 0 10px;font-size:12px}.amta-admin-warning label{display:flex;gap:8px;align-items:flex-start;font-size:12px}
+.amta-tips{background:linear-gradient(180deg,#fff,#fbfdfc)}.amta-tip{display:flex;align-items:flex-start;gap:16px;padding:0 0 20px;margin-bottom:18px;border-bottom:1px solid #edf1f4}.amta-tip:last-of-type{border-bottom:0;margin-bottom:0;padding-bottom:8px}.amta-tip>.dashicons{font-size:20px;min-width:39px;height:39px;display:grid;place-items:center;background:#e9f6ee;border-radius:11px;color:#16895b}.amta-tip strong{display:block;color:#22334b;font-size:13px;margin:0 0 6px}.amta-tip p{font-size:12px;line-height:1.65;color:#77869a;margin:0}.amta-inline-note{padding:15px;border-radius:10px;margin-top:12px;background:#eaf7ef;color:#31684b;font-size:12px;line-height:1.6}
+.amta-table-panel,.amta-activity{margin-bottom:18px}.amta-table-scroll{overflow:auto}.amta-wrap .amta-table{border:0;box-shadow:none;background:#fff;border-spacing:0}.amta-wrap .amta-table th{background:#f7f9fc;color:#627388;font-weight:700;font-size:11px;letter-spacing:.2px;padding:15px 13px;white-space:nowrap}.amta-wrap .amta-table td{background:#fff;border-bottom:1px solid #eef2f6;vertical-align:middle;padding:15px 13px;font-size:12px;color:#506078}.amta-wrap .amta-table td strong{display:block;color:#2a3b50;font-weight:750;margin-bottom:5px}.amta-wrap .amta-table td small{display:block;color:#96a2b0}.amta-status{display:inline-block;border-radius:6px;background:#f1f3f5;color:#718096;font-weight:700;padding:5px 9px;font-size:11px}.amta-status-active{background:#e5f7ed;color:#168055}.amta-status-expired{background:#fff3df;color:#a86a11}.amta-status-revoked{background:#f3f4f6;color:#657488}.amta-wrap .amta-revoke{border-color:#eed3d5;border-radius:6px;background:#fff;color:#b44b55;font-size:11px;font-weight:700}.amta-wrap .amta-revoke:hover{background:#fff0f0;border-color:#deafb3;color:#972a39}.amta-closed{color:#aab3bf}.amta-empty{text-align:center;color:#8a97a9!important;padding:28px!important}.amta-pagination{display:flex;justify-content:flex-end;padding-top:20px;gap:6px}.amta-pagination .page-numbers{padding:7px 11px;border:1px solid #e2eaf1;border-radius:6px}.amta-pagination .current{background:#147b53;color:white;border-color:#147b53}
+.amta-event-list{display:grid;grid-template-columns:1fr 1fr;column-gap:30px}.amta-event{display:flex;align-items:center;gap:11px;border-bottom:1px solid #eef2f6;padding:13px 0;font-size:12px;color:#4b5a6e}.amta-event-mark{width:9px;height:9px;border-radius:50%;background:#b6c2cf;flex:none}.amta-event-created,.amta-event-redeemed{background:#1da06f}.amta-event-expired{background:#e7a23d}.amta-event-revoked{background:#d8787c}.amta-event time{margin-left:auto;white-space:nowrap;color:#94a0ad;font-size:11px}.amta-footer{text-align:center;font-size:11px;color:#93a0ad;padding:5px 0 15px}
+.amta-notice,.amta-created{border-radius:12px;margin:0 0 20px;padding:17px 21px;background:#fff;border:1px solid #e2e9f0}.amta-notice{border-left:4px solid #597fba}.amta-success{border-left-color:#22a46b}.amta-error{border-left-color:#d95959}.amta-created{display:flex;gap:16px;background:#f1fbf5;border-color:#cde8d6}.amta-created-icon{color:#168456}.amta-created-icon .dashicons{font-size:27px}.amta-created-body{flex:1;min-width:0}.amta-created-body strong{font-size:14px;color:#1c5138}.amta-created-body p{color:#587763;margin:6px 0 12px}.amta-copy-row{display:flex;gap:9px}.amta-copy-row input{min-width:0;width:100%;background:#fff;border-radius:7px}.amta-wrap .amta-copy{display:flex;align-items:center;justify-content:center;gap:8px;white-space:nowrap;background:#137e54;border-color:#137e54;border-radius:7px}.amta-wrap .amta-copy:hover{background:#0b6340;border-color:#0b6340}.amta-wrap .amta-copy .dashicons{font-size:15px}
+@media(max-width:1100px){.amta-columns{grid-template-columns:1fr}.amta-stats{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:680px){.amta-wrap{margin:16px 11px 30px 0}.amta-header{flex-wrap:wrap}.amta-header-link{margin-left:79px}.amta-stats{gap:10px}.amta-stat{padding:17px}.amta-stat strong{font-size:29px}.amta-panel{padding:19px}.amta-form-grid,.amta-event-list{grid-template-columns:1fr}.amta-copy-row{flex-direction:column}}
+/* 1.1 — mandatory recipient emails, independent bulk invitations. */
+.amta-header-actions{display:flex;align-items:center;flex-wrap:wrap;gap:9px}
+.amta-bulk-panel{margin-bottom:18px}
+.amta-bulk-panel .amta-form{max-width:950px}
+.amta-bulk-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.amta-field textarea{display:block;width:100%;min-height:145px;padding:12px 14px;border:1px solid #dce5ee;border-radius:9px;resize:vertical;font:inherit;color:#22334b}
+.amta-field textarea:focus{border-color:#168c62;box-shadow:0 0 0 3px rgba(22,140,98,.11);outline:0}
+.amta-email-opt{display:flex;gap:10px;align-items:flex-start;color:#324158;font-weight:650;cursor:pointer}
+.amta-email-opt input{margin-top:3px}
+.amta-email-opt small{display:block;margin-top:3px;color:#8290a1;font-size:11px;font-weight:400}
+.amta-created-multi{align-items:flex-start}
+.amta-new-recipient{border-top:1px solid #cde8d6;padding:14px 0}
+.amta-new-recipient>div:first-child{margin-bottom:8px}
+.amta-new-recipient strong{display:block}
+.amta-new-recipient small{display:block;margin-top:2px;color:#547461;word-break:break-word}
+.amta-copy-all{margin-top:10px!important;border-color:#168456!important;color:#12774c!important;font-weight:650!important}
+@media(max-width:780px){.amta-bulk-grid{grid-template-columns:1fr}.amta-header-actions{width:100%}.amta-header-link{margin:0}}
+
+/* 1.2.0: navigation tabs, time controls, and management actions. */
+.amta-primary-nav{display:flex;gap:7px;flex-wrap:wrap;align-items:center;margin:-7px 0 22px;padding:7px;background:#fff;border:1px solid var(--amta-line);border-radius:13px;box-shadow:0 3px 15px #133c2410}
+.amta-primary-nav .amta-nav-link{display:inline-flex;gap:9px;align-items:center;justify-content:center;padding:13px 15px;border-radius:9px;color:#637588;font-weight:750;font-size:12px;white-space:nowrap;transition:background .15s,color .15s}
+.amta-primary-nav .amta-nav-link:hover{background:#f2f8f5;color:#106643}.amta-primary-nav .amta-nav-link.is-active{background:#e6f5ed;color:#0a794c;box-shadow:inset 0 0 0 1px #d1eddd}
+.amta-primary-nav .amta-nav-link .dashicons{font-size:16px}.amta-nav-count{border-radius:12px;padding:2px 7px;background:#edf1f5;color:#415266;font-size:10px;line-height:1.4}
+.amta-duration-fields{display:flex;min-width:0;flex-direction:column;gap:8px}.amta-duration-extra{display:flex;flex-direction:column;gap:7px;padding:12px;border-radius:9px;background:#f3faf6;border:1px solid #e0eee5}.amta-duration-extra[hidden]{display:none!important}.amta-duration-extra label{font-size:11px;color:#316d51;font-weight:750}.amta-duration-extra input,.amta-duration-extra select{max-width:100%;width:100%;min-height:40px;border:1px solid #d6e7dc;border-radius:7px;padding:7px;color:#28443b;background:#fff}.amta-duration-line{display:grid;grid-template-columns:minmax(0,1fr) minmax(110px,1fr);gap:9px}.amta-duration-hint{font-size:11px;color:#8192a0}.amta-duration-extra small{font-size:10px;color:#83938c}
+.amta-filter-bar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;background:#f8fafb;border-radius:11px;padding:13px;margin:-6px 0 16px}.amta-filter-bar input[type=search]{flex:1;min-width:200px;max-width:550px;min-height:38px}.amta-filter-bar select{min-height:38px}.amta-filter-bar .button{min-height:37px;line-height:35px}.amta-result-count{font-size:12px;color:#8190a1;margin:0 0 12px}
+.amta-action-stack{display:flex;flex-direction:column;gap:8px;align-items:flex-start}.amta-action-stack .button{min-height:29px;font-size:11px;font-weight:700}.amta-delete{border-color:#f0d6d9!important;color:#ad4252!important}.amta-delete:hover{background:#fff0f2!important}.amta-status-deleted{background:#f4ebeb;color:#a75b5b}.amta-expiry-details{position:relative;max-width:240px}.amta-expiry-details summary{color:#167958;font-weight:750;font-size:11px;cursor:pointer;white-space:nowrap}.amta-expiry-details[open]{border:1px solid #d7e9df;padding:10px;border-radius:10px;background:#f8fcf9}.amta-inline-edit{display:flex;flex-direction:column;gap:8px;padding-top:10px}.amta-inline-edit label{display:flex;flex-direction:column;gap:6px;font-size:11px}.amta-inline-edit input{min-height:35px;max-width:205px;width:100%;padding:4px}
+@media(max-width:800px){.amta-primary-nav{overflow-x:auto;flex-wrap:nowrap}.amta-primary-nav .amta-nav-link{padding:11px}.amta-filter-bar{align-items:stretch}.amta-filter-bar input[type=search]{width:100%;max-width:none}.amta-filter-bar select{flex:1}}
+
+/* 1.3.0: responsive invitation cards with actions anchored below details. */
+.amta-link-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.amta-link-card{min-width:0;display:flex;flex-direction:column;border:1px solid #e2eae6;border-radius:16px;background:linear-gradient(165deg,#fff 65%,#f9fcfa);box-shadow:0 7px 25px rgba(23,60,48,.04);padding:20px;gap:17px}
+.amta-link-card-head{display:flex;align-items:flex-start;gap:12px;min-width:0}
+.amta-link-avatar{display:grid;place-items:center;width:43px;height:43px;border-radius:12px;flex:none;font-size:17px;font-weight:850;color:#11694c;background:linear-gradient(135deg,#d5f6e6,#edf8ef)}
+.amta-link-person{min-width:0;flex:1}.amta-link-person h3{font-size:16px;margin:0 0 4px;font-weight:800;color:#1c3641;overflow-wrap:anywhere}
+.amta-link-person p{font-size:12px;color:#567385;margin:0 0 6px;overflow-wrap:anywhere}.amta-link-person small{display:block;color:#92a1aa;font-size:10px;line-height:1.5}
+.amta-link-card-head .amta-status{flex:none;border-radius:99px;font-size:10px;margin-top:2px}
+.amta-link-meta{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.amta-link-meta>div{min-width:0;border:1px solid #e9f0ec;border-radius:10px;padding:12px 10px;background:#fbfdfc;display:flex;flex-direction:column;gap:5px}
+.amta-link-meta span{font-size:10px;color:#83958e}.amta-link-meta strong{font-size:11px;color:#294f41;line-height:1.45;overflow-wrap:anywhere}
+.amta-countdown{display:flex;align-items:center;gap:11px;border-radius:12px;padding:12px 14px;color:#155c42;background:#e9f8ee;border:1px solid #d4edda}
+.amta-countdown .dashicons{font-size:22px}.amta-countdown small{display:block;font-size:10px;letter-spacing:.3px;color:#597e69}
+.amta-countdown strong{display:block;font-size:19px;font-weight:850;letter-spacing:.8px;font-variant-numeric:tabular-nums;color:#155c42;margin-top:2px}
+.amta-countdown-restore{background:#f4f0ff;border-color:#e7dcfa;color:#6337a2}.amta-countdown-restore small,.amta-countdown-restore strong{color:#6337a2}
+.amta-time-warning{background:#fff4e4;border-color:#f9deba}.amta-time-warning strong{color:#a66b17}.amta-time-ended{background:#f8eeee;border-color:#ead5d5}.amta-time-ended strong{color:#ad4b55}
+.amta-closed-label{border-radius:10px;padding:12px 14px;background:#f6f7f8;color:#78838e;font-size:11px;line-height:1.5}
+.amta-card-actions{margin-top:auto;padding-top:13px;border-top:1px solid #eaf0ed;display:flex;flex-wrap:wrap;gap:8px;align-items:flex-start}
+.amta-card-actions>form,.amta-card-actions>details{min-width:0;flex:1 1 130px;margin:0}
+.amta-card-actions .button,.amta-card-actions summary.button{display:flex;align-items:center;justify-content:center;min-height:40px;width:100%;padding:8px 11px;border-radius:9px!important;font-size:12px!important;font-weight:760!important;line-height:1.25;white-space:normal;text-align:center;cursor:pointer}
+.amta-card-actions .button:focus-visible,.amta-card-actions summary:focus-visible{outline:2px solid #087d5b;outline-offset:2px}
+.amta-card-actions .amta-action-edit{background:#edf7f2;color:#12744b;border:1px solid #cfe6d7}
+.amta-card-actions .amta-action-restore{background:#e6f5ed;color:#0b734d;border:1px solid #9ddcba}
+.amta-card-actions .amta-revoke{background:#fff7ef;border:1px solid #f1dec5;color:#a56e2c}
+.amta-card-actions .amta-delete{background:#fff2f4;border:1px solid #f5dadd;color:#ad4252}
+.amta-card-details[open]{flex-basis:100%;order:1;background:#f8fbf9;border:1px solid #e0eae2;border-radius:12px;padding:12px}
+.amta-card-details summary{list-style:none}.amta-card-details summary::-webkit-details-marker{display:none}
+.amta-card-edit-form{display:flex;flex-direction:column;gap:12px;margin-top:12px}.amta-card-edit-form label{display:flex;flex-direction:column;gap:6px;color:#435e50;font-size:11px;font-weight:650}
+.amta-card-edit-form input[type=datetime-local]{max-width:none;width:100%;padding:8px;min-height:40px;border-radius:8px;border:1px solid #d4e5da}
+.amta-card-edit-form p{font-size:11px;margin:0;line-height:1.6;color:#60766b}
+.amta-card-edit-form .amta-restore-checkbox{flex-direction:row;align-items:flex-start}.amta-card-edit-form .amta-restore-checkbox input{margin:2px 3px 0 0}
+.amta-wrap .amta-card-edit-form .button-primary{background:#147b53;border-color:#147b53}
+.amta-link-grid>.amta-empty{grid-column:1/-1;border:1px dashed #d5e4da;border-radius:12px;padding:30px}
+@media(max-width:1120px){.amta-link-grid{grid-template-columns:1fr}}
+@media(max-width:600px){.amta-link-card{padding:15px;gap:13px}.amta-link-card-head{flex-wrap:wrap}.amta-link-person{min-width:calc(100% - 55px)}.amta-link-card-head .amta-status{margin-left:55px}.amta-link-meta{grid-template-columns:1fr 1fr}.amta-link-meta>div:last-child{grid-column:1/-1}.amta-card-actions>form,.amta-card-actions>details{flex-basis:calc(50% - 6px)}.amta-card-actions .button{min-height:44px}.amta-filter-bar input[type=search]{min-width:0}}
+@media(max-width:360px){.amta-card-actions>form,.amta-card-actions>details{flex-basis:100%}.amta-link-meta{grid-template-columns:1fr}.amta-link-meta>div:last-child{grid-column:auto}}
+
+/* v1.4: The one-time URL belongs to the exact invitation card (ID based). */
+.amta-invitation-credential{min-width:0;border:1px solid #e4ebe9;background:#f8faf9;border-radius:13px;padding:13px 14px}
+.amta-invitation-credential.is-new{border-color:#aedec7;background:linear-gradient(120deg,#f1fcf5,#e9f8f1);box-shadow:inset 0 0 0 1px #dff2e8}
+.amta-credential-top{display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin-bottom:10px;color:#175f42}
+.amta-credential-top .dashicons{font-size:17px;width:17px;height:17px}
+.amta-credential-top strong{font-size:12px;font-weight:800}
+.amta-once-pill{margin-left:auto;background:#d3f2e0;border-radius:100px;padding:4px 8px;color:#116d43;font-size:9px;letter-spacing:.6px;font-weight:850}
+.amta-invitation-credential .amta-copy-row{display:flex;align-items:stretch;min-width:0;gap:8px}
+.amta-invitation-credential .amta-generated-link{flex:1 1 auto;width:100%;min-width:0;max-width:100%;height:auto;min-height:43px;padding:9px 12px;border-color:#c9e2d4;border-radius:9px;background:#fff;font-size:12px;color:#2b4a3f;text-overflow:ellipsis}
+.amta-invitation-credential .amta-copy{min-height:43px;flex:0 0 auto;padding:6px 14px!important;font-size:12px}
+.amta-invitation-credential small{display:block;line-height:1.5;margin-top:9px;color:#597c69;font-size:11px}
+.amta-credential-hidden{display:flex;align-items:center;gap:9px;font-size:11px;color:#7a8b84;line-height:1.6}
+.amta-credential-hidden .dashicons{flex:none;color:#95a8a0;font-size:18px;width:18px;height:18px}
+.amta-link-person p,.amta-link-person small{overflow-wrap:anywhere}
+@media(max-width:600px){.amta-invitation-credential{padding:12px}.amta-invitation-credential .amta-copy-row{flex-direction:column}.amta-invitation-credential .amta-copy{width:100%;min-height:44px}.amta-once-pill{margin-left:0}.amta-copy-row input{width:100%}}
+
+/* OneClicky 1.5: truthfully distinguish an unused invitation from a live dashboard session. */
+.amta-status-pending{background:#fff4d8;color:#935f12;border:1px solid #f0deae}
+.amta-status-working{background:#dff7e9;color:#086f48;border:1px solid #bee9d0}
+.amta-status-idle{background:#e8eef8;color:#455d80;border:1px solid #d4deed}
+.amta-presence-detail{display:flex;align-items:center;gap:7px;padding:8px 11px;margin:0 0 12px;background:#f7fafc;border-radius:8px;color:#617285;font-size:12px;line-height:1.4}
+.amta-presence-detail .dashicons{font-size:15px;color:#18875d;flex-shrink:0}
+.amta-status-working::before{content:'';display:inline-block;width:7px;height:7px;margin-right:6px;border-radius:50%;background:#0da45d;box-shadow:0 0 0 3px #c1edd4}
+.amta-link-card-head>.amta-status{max-width:100%;text-align:center}
+@media(max-width:520px){.amta-link-card-head>.amta-status{white-space:normal}.amta-presence-detail{align-items:flex-start}}
+
+/* v1.7: fine-grained owner-approved temporary permission grants. */
+.amta-permission-panel{border:1px solid #dbece3;border-radius:13px;background:linear-gradient(125deg,#f8fcfa,#eff8f3);padding:13px 15px;min-width:0}
+.amta-permission-panel>summary{list-style:none;display:flex;align-items:center;gap:9px;cursor:pointer;color:#176344}
+.amta-permission-panel>summary::-webkit-details-marker{display:none}
+.amta-permission-panel>summary strong{font-size:13px}.amta-permission-panel>summary .dashicons{color:#128559}
+.amta-permission-pill{margin-left:auto;color:#38735d;background:#dff3e6;padding:5px 10px;border-radius:100px;font-size:10px;font-weight:800}
+.amta-permission-panel>p,.amta-permission-panel>small{font-size:11px;line-height:1.65;color:#687d71;display:block;margin:13px 0}
+.amta-unlock-form{display:grid;grid-template-columns:minmax(0,1fr) minmax(120px,.45fr);gap:12px;padding-top:15px}
+.amta-unlock-form label{min-width:0;display:flex;flex-direction:column;gap:6px;font-weight:700;font-size:11px;color:#426b53}
+.amta-unlock-form select{width:100%;max-width:100%;min-width:0;min-height:40px;border-radius:8px}
+.amta-unlock-form .amta-unlock-plugin-label{grid-column:1/-1}
+.amta-unlock-form>.button{grid-column:1/-1;justify-self:start;min-height:41px}
+.amta-unlock-live{display:flex;align-items:flex-start;gap:12px;border-radius:10px;background:#e0f5e9;padding:13px;margin:14px 0}
+.amta-unlock-live>div{display:flex;flex-direction:column;gap:5px;min-width:0}
+.amta-unlock-live strong{color:#156c43;overflow-wrap:anywhere}.amta-unlock-live small{color:#698873}
+.amta-lock-now{min-height:38px;color:#994024!important;border-color:#e4c5ad!important}
+@media(max-width:600px){.amta-unlock-form{grid-template-columns:1fr}.amta-unlock-form>.button{width:100%}}
+
+.amta-unlock-form [hidden]{display:none!important}
+
+/* v1.8: independent timed permission switches, multi-select, and protected settings. */
+.amta-multi-unlock{display:flex;flex-direction:column;gap:12px;padding-top:13px;min-width:0}
+.amta-multi-unlock h4{font-size:13px;color:#255742;margin:9px 0 0}
+.amta-scope-row{background:#fff;border:1px solid #deebe3;border-radius:12px;padding:12px;display:grid;grid-template-columns:minmax(0,1fr) 90px;column-gap:12px;row-gap:9px;min-width:0}
+.amta-scope-row.is-disabled{opacity:.6}.amta-scope-choice{display:flex;gap:9px;align-items:flex-start;min-width:0;color:#235c45;font-weight:700;font-size:12px;line-height:1.5}
+.amta-scope-choice input{flex-shrink:0;margin:2px 0 0}.amta-scope-time{display:flex;align-items:center;gap:5px;min-width:0;font-size:11px!important}
+.amta-scope-time input{min-width:0;width:65px!important;min-height:35px;text-align:center;border-radius:7px}
+.amta-scope-plugin{grid-column:1/-1;display:flex;flex-direction:column;gap:5px;color:#426b53;font-weight:600;font-size:11px}
+.amta-scope-plugin select{min-width:0;width:100%;max-width:100%;min-height:40px;border-radius:8px}
+.amta-multi-unlock>.button{align-self:flex-start;min-height:42px}
+.amta-protected-list{display:flex;flex-direction:column;gap:6px}
+.amta-protected-list>div{display:flex;gap:8px;align-items:center;padding:10px;border:1px solid #f1e0e1;background:#fffafb;border-radius:10px;color:#6e5560;font-size:11px;line-height:1.5}
+.amta-protected-list .dashicons{color:#b85f65;flex:0 0 20px}
+.amta-protected-list strong{margin-left:auto;white-space:nowrap;color:#a24d59;font-size:10px}
+.amta-grants-live{display:flex;flex-direction:column;gap:8px;margin:13px 0}
+.amta-grant-live{background:#e6f5eb;border:1px solid #d5ebdb;border-radius:10px;padding:12px;display:flex;align-items:center;justify-content:space-between;gap:10px;min-width:0}
+.amta-grant-live>div{display:flex;flex-direction:column;gap:3px;min-width:0}
+.amta-grant-live strong{color:#205d44;overflow-wrap:anywhere;font-size:11px}.amta-grant-live small{color:#6c8c78;font-size:10px}
+.amta-grant-live form{flex:0 0 auto;margin:0}.amta-grant-live .button{min-height:37px}
+@media(max-width:600px){.amta-scope-row{grid-template-columns:minmax(0,1fr) 90px}.amta-multi-unlock>.button{width:100%}.amta-protected-list>div{flex-wrap:wrap}.amta-protected-list strong{margin-left:28px}}
+@media(max-width:370px){.amta-scope-row{grid-template-columns:1fr}.amta-scope-time{justify-content:space-between}}
+
+/* v1.9: clear multi-plugin picker and capability summary on narrow screens */
+.amta-scope-plugin select[multiple]{height:auto!important;min-height:125px!important;padding:8px;max-width:100%;font-size:12px;line-height:1.5;background-color:#fff}
+.amta-scope-plugin select[multiple] option{padding:8px;white-space:normal;border-radius:4px}
+.amta-scope-plugin small{line-height:1.5;color:#547467;display:block}
+.amta-permission-panel .amta-scope-row{box-shadow:0 3px 12px #0d4c2608}
+.amta-permission-quick-actions{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}.amta-permission-quick-actions .button{white-space:normal;min-height:36px}
+@media(max-width:600px){.amta-scope-plugin select[multiple]{min-height:155px}.amta-permission-panel{padding:12px}.amta-scope-row{padding:10px}}
+
+/* v1.12 owner-controlled feature-deny rules, per invitation; mobile-first layout. */
+.amta-feature-locks{margin-top:13px;border:1px solid #d8eae1;border-radius:13px;background:linear-gradient(130deg,#f6fcf9,#edf8f3);overflow:hidden}
+.amta-feature-locks>summary{display:flex;gap:9px;align-items:center;padding:13px 14px;cursor:pointer;list-style:none;color:#176546;min-height:45px}
+.amta-feature-locks>summary::-webkit-details-marker{display:none}
+.amta-feature-locks>summary .dashicons{color:#138458;flex:0 0 auto}.amta-feature-locks>summary strong{font-size:12px}
+.amta-feature-lock-count{margin-left:auto;color:#39765c;border-radius:30px;padding:5px 9px;background:#def3e6;text-align:right;font-size:10px;font-weight:700}
+.amta-feature-lock-body{border-top:1px solid #deede4;padding:14px;min-width:0}.amta-feature-lock-body>p,.amta-extra-caps p{font-size:12px;color:#557366;line-height:1.6;margin:0 0 12px}
+.amta-feature-lock-form{display:flex;flex-direction:column;gap:13px}.amta-feature-lock-toolbar{display:flex;flex-wrap:wrap;gap:8px}.amta-feature-lock-toolbar .button{min-height:35px;white-space:normal}
+.amta-feature-lock-choices{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.amta-feature-lock-choice,.amta-extra-cap-item{display:flex;gap:9px;align-items:flex-start;padding:11px;background:#fff;border:1px solid #dcece3;border-radius:9px;min-width:0;font-weight:650;font-size:12px;color:#285a45;line-height:1.4}
+.amta-feature-lock-choice input,.amta-extra-cap-item input{flex:0 0 auto;margin:2px 0 0}.amta-feature-lock-choice span{overflow-wrap:anywhere}
+.amta-extra-caps{border:1px solid #d9e9df;border-radius:9px;background:#fff;padding:11px}.amta-extra-caps summary{cursor:pointer;font-size:12px;color:#236047;font-weight:750}.amta-extra-caps p{margin:10px 0}.amta-extra-cap-search{width:100%;max-width:100%;margin-bottom:9px;min-height:37px}
+.amta-extra-cap-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px;max-height:245px;overflow:auto;padding:2px}.amta-extra-cap-item{font-weight:500;min-width:0}.amta-extra-cap-item code{overflow-wrap:anywhere;white-space:normal}
+.amta-permanent-protection{display:flex;gap:8px;align-items:flex-start;background:#e0f3e8;border:1px solid #cbe6d7;color:#176843;padding:10px;border-radius:9px;font-size:11px;line-height:1.5}.amta-permanent-protection .dashicons{flex:0 0 20px}
+.amta-save-feature-locks{min-height:42px;align-self:flex-start;white-space:normal}
+@media(max-width:700px){.amta-feature-lock-choices,.amta-extra-cap-list{grid-template-columns:1fr}}
+@media(max-width:480px){.amta-feature-locks>summary{flex-wrap:wrap}.amta-feature-lock-count{margin-left:0}.amta-feature-lock-body{padding:11px}.amta-save-feature-locks,.amta-feature-lock-toolbar .button{width:100%}}
+
+.amta-extra-cap-item[hidden]{display:none!important}
+
+/* v1.13 security center */
+.amta-security-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:18px}
+.amta-security-tile{border:1px solid #dfe8e6;border-radius:14px;background:#fbfdfc;padding:22px;min-width:0}
+.amta-security-tile h3{font-size:16px;margin:0 0 12px;display:flex;align-items:center;gap:8px}
+.amta-security-tile p{line-height:1.65;color:#51605d}
+.amta-security-status{font-weight:700;padding:10px 12px;border-radius:8px}
+.amta-security-status.amta-is-locked{background:#fff2f0;color:#a32d25}
+.amta-security-status.amta-is-unlocked{background:#e7f6ec;color:#087649}
+.amta-danger-button{background:#b83229!important;border-color:#b83229!important;color:white!important}
+.amta-event-details{display:block;color:#51605d;font-size:12px;word-break:break-word}
+@media(max-width:782px){.amta-security-grid{grid-template-columns:1fr}.amta-security-tile{padding:16px}}
+
+
+/* v1.14: native mobile-friendly expiry manager; visually compares current and proposed access. */
+.amta-expiry-details[open]{padding:14px!important;background:linear-gradient(140deg,#f9fdfb,#eff9f3)!important;border-color:#cde7d7!important}
+.amta-expiry-editor{min-width:0;gap:13px!important}
+.amta-expiry-overview{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.amta-expiry-overview>div{display:flex;flex-direction:column;gap:5px;padding:13px;border:1px solid #dbece3;background:#fff;border-radius:12px;min-width:0}
+.amta-expiry-overview small,.amta-expiry-preview small{color:#557c69;font-size:11px;font-weight:650}
+.amta-expiry-overview strong{font-size:14px;color:#185640;overflow-wrap:anywhere;font-variant-numeric:tabular-nums}
+.amta-expiry-fields{border:1px solid #dfebe5;background:#fff;border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:11px;min-width:0}
+.amta-expiry-fields>label,.amta-expiry-fields>div>label{font-size:12px;color:#295c47;font-weight:750}
+.amta-expiry-fields select,.amta-expiry-fields input{box-sizing:border-box;min-width:0;width:100%;max-width:100%;min-height:43px;border:1px solid #cddfd5;border-radius:9px;background:#fff;color:#244b3b;padding:8px 10px;font-size:14px}
+.amta-expiry-fields [hidden]{display:none!important}
+.amta-expiry-fields [data-amta-basis-wrap]{display:flex;flex-direction:column;gap:7px}
+.amta-expiry-custom,.amta-expiry-exact{display:flex;flex-direction:column;gap:8px;min-width:0}
+.amta-expiry-custom .amta-duration-line{grid-template-columns:minmax(90px,1fr) minmax(110px,1fr)}
+.amta-expiry-exact small{font-size:11px;line-height:1.5;color:#5b766a}
+.amta-expiry-preview{display:flex;flex-direction:column;gap:6px;background:#e5f5eb;border:1px solid #c4e5d3;border-radius:12px;padding:15px;color:#166243;min-width:0}
+.amta-expiry-preview>div{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.amta-expiry-preview strong{font-size:19px;color:#08714d;font-variant-numeric:tabular-nums;overflow-wrap:anywhere}
+.amta-expiry-preview p{margin:0!important;color:#3d7961!important;font-weight:650}
+.amta-expiry-policy{font-size:11px!important;color:#607668!important;line-height:1.7!important}
+.amta-expiry-editor .amta-expiry-submit{min-height:45px;width:100%!important}
+.amta-expiry-submit:disabled{opacity:.55;cursor:not-allowed}
+@media(max-width:520px){.amta-expiry-overview{grid-template-columns:1fr}.amta-expiry-fields{padding:11px}.amta-expiry-overview strong{font-size:13px}.amta-expiry-preview strong{font-size:17px}}
+
+/* 1.14 transparent email-delivery troubleshooting panel. */
+.amta-smtp-help{margin-top:15px;border:1px solid #dcebe4;border-radius:10px;background:#fff;padding:12px;font-size:12px;color:#476a59}
+.amta-smtp-help summary{cursor:pointer;font-weight:750;color:#126d4b;line-height:1.5}
+.amta-smtp-help ol{padding-left:19px;margin:12px 0}.amta-smtp-help li{line-height:1.6;margin-bottom:7px}
+.amta-smtp-help p{margin-bottom:0;font-size:11px}
