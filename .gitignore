@@ -1,0 +1,27 @@
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Dependencies, builds, and temporary files
+/vendor/
+/node_modules/
+/dist/
+/build/
+/tmp/
+/coverage/
+/.phpunit.result.cache
+/.phpunit.cache/
+/.php-cs-fixer.cache
+
+# Local secrets and environment
+.env
+.env.*
+!.env.example
+*.log
+*.sql
+*.sql.gz
+wp-config.php
