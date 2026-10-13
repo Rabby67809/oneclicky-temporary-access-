@@ -1,0 +1,1187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OneClicky Temporary Access & Guard Control 1.16.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: oneclicky-temporary-access\n"
+
+#: includes/class-amta-admin.php:410
+msgid "%1$s invitation #%2$d"
+msgstr ""
+
+#: includes/class-amta-admin.php:391
+msgid "%d invitation found"
+msgid_plural "%d invitations found"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-amta-admin.php:127
+msgid "%d separate temporary account created."
+msgid_plural "%d separate temporary accounts created."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-amta-admin.php:215
+msgid "1 day"
+msgstr ""
+
+#: includes/class-amta-admin.php:213
+msgid "1 hour"
+msgstr ""
+
+#: includes/class-amta-admin.php:372
+msgid "1 login"
+msgstr ""
+
+#: includes/class-amta-admin.php:344
+#: includes/class-amta-admin.php:372
+msgid "10 logins"
+msgstr ""
+
+#: includes/class-amta-admin.php:212
+msgid "15 minutes"
+msgstr ""
+
+#: includes/class-amta-admin.php:344
+#: includes/class-amta-admin.php:372
+msgid "3 logins"
+msgstr ""
+
+#: includes/class-amta-admin.php:217
+msgid "30 days"
+msgstr ""
+
+#: includes/class-amta-admin.php:344
+#: includes/class-amta-admin.php:372
+msgid "5 logins"
+msgstr ""
+
+#: includes/class-amta-admin.php:214
+msgid "6 hours"
+msgstr ""
+
+#: includes/class-amta-admin.php:216
+msgid "7 days"
+msgstr ""
+
+#: includes/class-amta-creator.php:130
+msgid "[%s] Your temporary access link"
+msgstr ""
+
+#: includes/class-amta-admin.php:329
+msgid "A dedicated user account is created for each invitation."
+msgstr ""
+
+#: includes/class-amta-security.php:234
+msgid "Access expired"
+msgstr ""
+
+#: includes/class-amta-security.php:265
+msgid "Access level"
+msgstr ""
+
+#: includes/class-amta-admin.php:318
+msgid "Access overview"
+msgstr ""
+
+#: includes/class-amta-security.php:235
+msgid "Access revoked"
+msgstr ""
+
+#: includes/class-amta-security.php:236
+msgid "Access unavailable"
+msgstr ""
+
+#: includes/class-amta-admin.php:24
+#: includes/class-amta-admin.php:283
+msgid "OneClicky"
+msgstr ""
+
+#: includes/class-amta-storage.php:20
+msgid "OneClicky must be activated separately on each site, not network-wide."
+msgstr ""
+
+#: includes/class-amta-admin.php:289
+msgid "OneClicky navigation"
+msgstr ""
+
+#: includes/class-amta-admin.php:23
+msgid "OneClicky Temporary Access"
+msgstr ""
+
+#: includes/class-amta-admin.php:414
+msgid "OneClicky Temporary Access — private by design. No account or analytics service required."
+msgstr ""
+
+#: includes/class-amta-admin.php:263
+msgid "Active"
+msgstr ""
+
+#: includes/class-amta-admin.php:319
+msgid "Active access"
+msgstr ""
+
+#: includes/class-amta-admin.php:290
+msgid "Activity"
+msgstr ""
+
+#: includes/class-amta-creator.php:58
+msgid "Add at least one recipient, one per line."
+msgstr ""
+
+#: includes/class-amta-admin.php:346
+#: includes/class-amta-admin.php:375
+msgid "Administrator access is high risk."
+msgstr ""
+
+#: includes/class-amta-admin.php:346
+msgid "Administrators can install plugins, alter users, and disable OneClicky. Only grant this role to someone you fully trust."
+msgstr ""
+
+#: includes/class-amta-admin.php:322
+#: includes/class-amta-admin.php:384
+msgid "All invitations"
+msgstr ""
+
+#: includes/class-amta-admin.php:286
+msgid "All links"
+msgstr ""
+
+#: includes/class-amta-admin.php:290
+msgid "All Links"
+msgstr ""
+
+#: includes/class-amta-admin.php:375
+msgid "All recipients will be able to change or disable plugins. Only grant this to people you trust."
+msgstr ""
+
+#: includes/class-amta-admin.php:388
+msgid "All statuses"
+msgstr ""
+
+#: includes/class-amta-admin.php:224
+msgid "Allowed: 5 minutes to 365 days."
+msgstr ""
+
+#: includes/class-amta-admin.php:374
+msgid "Also send each recipient their own link via WordPress email"
+msgstr ""
+
+#: includes/class-amta-admin.php:345
+msgid "Also send the secure link via WordPress email"
+msgstr ""
+
+#: includes/class-amta-admin.php:389
+msgid "Apply filters"
+msgstr ""
+
+#: includes/class-amta-admin.php:408
+msgid "AUDIT"
+msgstr ""
+
+#: includes/class-amta-admin.php:320
+msgid "Automatically blocked"
+msgstr ""
+
+#: includes/class-amta-admin.php:290
+msgid "Bulk Access"
+msgstr ""
+
+#: includes/class-amta-admin.php:363
+msgid "BULK ACCESS"
+msgstr ""
+
+#: includes/class-amta-creator.php:36
+msgid "Bulk input is too long (maximum 20 recipients)."
+msgstr ""
+
+#: includes/class-amta-admin.php:398
+msgid "Change expiry"
+msgstr ""
+
+#: includes/class-amta-admin.php:171
+msgid "Choose a preset, custom duration or exact expiration time."
+msgstr ""
+
+#: includes/class-amta-admin.php:77
+msgid "Choose a valid duration and invitation use limit."
+msgstr ""
+
+#: includes/class-amta-admin.php:163
+#: includes/class-amta-admin.php:167
+msgid "Choose a valid expiration date and time."
+msgstr ""
+
+#: includes/class-amta-admin.php:69
+msgid "Choose an available WordPress role."
+msgstr ""
+
+#: includes/class-amta-admin.php:82
+msgid "Confirm that you understand an Administrator can change or disable this plugin."
+msgstr ""
+
+#: includes/class-amta-security.php:272
+msgid "Continue securely to dashboard"
+msgstr ""
+
+#: includes/class-amta-admin.php:43
+msgid "Copied to clipboard"
+msgstr ""
+
+#: includes/class-amta-admin.php:309
+msgid "Copy"
+msgstr ""
+
+#: includes/class-amta-admin.php:312
+msgid "Copy all links"
+msgstr ""
+
+#: includes/class-amta-admin.php:305
+msgid "Copy these links now. They are shown only once, never stored as complete URLs, and cannot be retrieved later."
+msgstr ""
+
+#: includes/class-amta-admin.php:297
+msgid "Could not change this expiry. Only active links can be edited, within 5 minutes to 365 days."
+msgstr ""
+
+#: includes/class-amta-creator.php:95
+msgid "Could not save the invitation. The unused temporary user was removed."
+msgstr ""
+
+#: includes/class-amta-admin.php:329
+msgid "CREATE"
+msgstr ""
+
+#: includes/class-amta-admin.php:290
+msgid "Create Access"
+msgstr ""
+
+#: includes/class-amta-admin.php:363
+msgid "Create multiple accounts at once"
+msgstr ""
+
+#: includes/class-amta-admin.php:269
+msgid "Created"
+msgstr ""
+
+#: includes/class-amta-admin.php:319
+msgid "Currently valid"
+msgstr ""
+
+#: includes/class-amta-admin.php:218
+msgid "Custom amount"
+msgstr ""
+
+#: includes/class-amta-admin.php:222
+msgid "Custom duration"
+msgstr ""
+
+#: includes/class-amta-admin.php:290
+msgid "Dashboard"
+msgstr ""
+
+#: includes/class-amta-admin.php:222
+msgid "Days"
+msgstr ""
+
+#: includes/class-amta-admin.php:401
+msgid "Delete"
+msgstr ""
+
+#: includes/class-amta-admin.php:46
+msgid "Delete this invitation? The link will stop working immediately. Its audit record is retained."
+msgstr ""
+
+#: includes/class-amta-admin.php:266
+#: includes/class-amta-admin.php:272
+#: includes/class-amta-admin.php:274
+msgid "Deleted"
+msgstr ""
+
+#: includes/class-amta-admin.php:351
+msgid "DESIGNED FOR TRUST"
+msgstr ""
+
+#: includes/class-amta-admin.php:334
+msgid "e.g. Website support"
+msgstr ""
+
+#: includes/class-amta-admin.php:352
+msgid "Each recipient gets a separate WordPress identity with an unpredictable login link."
+msgstr ""
+
+#: includes/class-amta-admin.php:129
+msgid "Email sending: %1$d accepted, %2$d failed. Acceptance does not guarantee delivery."
+msgstr ""
+
+#: includes/class-amta-creator.php:15
+msgid "Enter a name and a valid email address."
+msgstr ""
+
+#: includes/class-amta-admin.php:157
+msgid "Enter a valid custom time and unit."
+msgstr ""
+
+#: includes/class-amta-creator.php:28
+msgid "Enter a valid email address."
+msgstr ""
+
+#: includes/class-amta-creator.php:24
+msgid "Enter a valid email address. Email is required."
+msgstr ""
+
+#: includes/class-amta-admin.php:363
+msgid "Enter up to 20 recipients. Each person receives an independent WordPress account and separate revocable access link."
+msgstr ""
+
+#: includes/class-amta-admin.php:219
+msgid "Exact date & time"
+msgstr ""
+
+#: includes/class-amta-admin.php:174
+msgid "Expiration must be at least 5 minutes and at most 365 days from now."
+msgstr ""
+
+#: includes/class-amta-admin.php:264
+#: includes/class-amta-admin.php:273
+#: includes/class-amta-admin.php:320
+msgid "Expired"
+msgstr ""
+
+#: includes/class-amta-admin.php:392
+msgid "Expires"
+msgstr ""
+
+#: includes/class-amta-admin.php:210
+msgid "Expires after"
+msgstr ""
+
+#: includes/class-amta-admin.php:223
+msgid "Expires on (site timezone)"
+msgstr ""
+
+#: includes/class-amta-admin.php:275
+msgid "Expiry updated"
+msgstr ""
+
+#: includes/class-amta-admin.php:388
+msgid "Filter invitations by status"
+msgstr ""
+
+#: includes/class-amta-security.php:277
+msgid "For a new invitation, contact the person who granted your temporary access."
+msgstr ""
+
+#: includes/class-amta-admin.php:376
+msgid "Generate multiple secure invitations"
+msgstr ""
+
+#: includes/class-amta-admin.php:347
+msgid "Generate secure invitation"
+msgstr ""
+
+#: includes/class-amta-admin.php:329
+msgid "Grant temporary access"
+msgstr ""
+
+#: includes/class-amta-admin.php:222
+msgid "Hours"
+msgstr ""
+
+#: includes/class-amta-admin.php:346
+#: includes/class-amta-admin.php:375
+msgid "I understand and accept this risk."
+msgstr ""
+
+#: includes/class-amta-admin.php:354
+msgid "Instant revocation"
+msgstr ""
+
+#: includes/class-amta-security.php:239
+msgid "Invalid invitation"
+msgstr ""
+
+#: includes/class-amta-admin.php:298
+msgid "Invitation deleted. Its access is disabled and its audit record is retained."
+msgstr ""
+
+#: includes/class-amta-security.php:263
+msgid "Invitation details"
+msgstr ""
+
+#: includes/class-amta-security.php:233
+msgid "Invitation verified"
+msgstr ""
+
+#: includes/class-amta-security.php:264
+msgid "Invited recipient"
+msgstr ""
+
+#: includes/class-amta-admin.php:408
+msgid "Last 12 events. Event history is deleted after 90 days."
+msgstr ""
+
+#: includes/class-amta-admin.php:322
+msgid "Lifetime total"
+msgstr ""
+
+#: includes/class-amta-security.php:237
+msgid "Limit reached"
+msgstr ""
+
+#: includes/class-amta-creator.php:53
+msgid "Line %1$d: %2$s"
+msgstr ""
+
+#: includes/class-amta-creator.php:49
+msgid "Line %d must contain a name and email, separated by a comma."
+msgstr ""
+
+#: includes/class-amta-admin.php:384
+msgid "LINK MANAGEMENT"
+msgstr ""
+
+#: includes/class-amta-admin.php:344
+msgid "Link use limit"
+msgstr ""
+
+#: includes/class-amta-admin.php:372
+msgid "Logins per link"
+msgstr ""
+
+#: includes/class-amta-admin.php:392
+msgid "Manage"
+msgstr ""
+
+#: oneclicky-temporary-access.php:49
+msgid "Manage access"
+msgstr ""
+
+#: includes/class-amta-admin.php:321
+msgid "Manually disabled"
+msgstr ""
+
+#: includes/class-amta-admin.php:355
+msgid "Minimal activity trail"
+msgstr ""
+
+#: includes/class-amta-admin.php:222
+msgid "Minutes"
+msgstr ""
+
+#: includes/class-amta-admin.php:286
+msgid "New access"
+msgstr ""
+
+#: includes/class-amta-admin.php:398
+msgid "New expiry (site time)"
+msgstr ""
+
+#: includes/class-amta-admin.php:309
+msgid "New invitation link"
+msgstr ""
+
+#: includes/class-amta-admin.php:393
+msgid "No invitations match your filters."
+msgstr ""
+
+#: includes/class-amta-security.php:276
+msgid "No password or WordPress login is required to check this status."
+msgstr ""
+
+#: includes/class-amta-admin.php:352
+msgid "No shared passwords"
+msgstr ""
+
+#: includes/class-amta-admin.php:137
+#: includes/class-amta-admin.php:181
+#: includes/class-amta-admin.php:197
+msgid "Not allowed."
+msgstr ""
+
+#: includes/class-amta-admin.php:409
+msgid "Nothing to report yet."
+msgstr ""
+
+#: includes/class-amta-admin.php:368
+msgid "One recipient per line, separated by a comma. Repeated emails are allowed; each line creates a separate access. Quote names containing commas."
+msgstr ""
+
+#: includes/class-amta-admin.php:344
+msgid "One-time link (recommended)"
+msgstr ""
+
+#: includes/class-amta-admin.php:86
+msgid "Only a Network Super Admin can grant Administrator access on Multisite."
+msgstr ""
+
+#: includes/class-amta-admin.php:345
+msgid "Optional. Configure working site email/SMTP. Sending does not guarantee arrival."
+msgstr ""
+
+#: includes/class-amta-admin.php:374
+msgid "Optional. Email delivery depends on your server/SMTP configuration."
+msgstr ""
+
+#: includes/class-amta-security.php:238
+msgid "Please wait a few minutes before trying again."
+msgstr ""
+
+#: includes/class-amta-security.php:279
+msgid "Private · Time-limited · Revocable"
+msgstr ""
+
+#: includes/class-amta-security.php:279
+msgid "Protected by OneClicky"
+msgstr ""
+
+#: includes/class-amta-admin.php:408
+msgid "Recent activity"
+msgstr ""
+
+#: includes/class-amta-admin.php:392
+msgid "Recipient"
+msgstr ""
+
+#: includes/class-amta-admin.php:110
+msgid "Recipient %1$d: %2$s"
+msgstr ""
+
+#: includes/class-amta-admin.php:335
+msgid "Recipient email"
+msgstr ""
+
+#: includes/class-amta-admin.php:334
+msgid "Recipient name"
+msgstr ""
+
+#: includes/class-amta-creator.php:21
+msgid "Recipient name is required."
+msgstr ""
+
+#: includes/class-amta-admin.php:368
+msgid "Recipients (name,email)"
+msgstr ""
+
+#: includes/class-amta-admin.php:270
+msgid "Redeemed"
+msgstr ""
+
+#: includes/class-amta-admin.php:335
+msgid "Required. Existing WordPress user emails and repeated recipients are supported; their original accounts are never changed."
+msgstr ""
+
+#: includes/class-amta-admin.php:389
+msgid "Reset"
+msgstr ""
+
+#: includes/class-amta-security.php:233
+msgid "Review your invitation, then continue securely to the dashboard."
+msgstr ""
+
+#: includes/class-amta-admin.php:399
+msgid "Revoke"
+msgstr ""
+
+#: includes/class-amta-admin.php:354
+msgid "Revoke access and terminate every WordPress session associated with it."
+msgstr ""
+
+#: includes/class-amta-admin.php:45
+msgid "Revoke this access now? Any active session will be signed out."
+msgstr ""
+
+#: includes/class-amta-admin.php:265
+#: includes/class-amta-admin.php:271
+#: includes/class-amta-admin.php:321
+msgid "Revoked"
+msgstr ""
+
+#: includes/class-amta-admin.php:392
+msgid "Role"
+msgstr ""
+
+#: includes/class-amta-admin.php:370
+msgid "Role for all"
+msgstr ""
+
+#: includes/class-amta-admin.php:398
+msgid "Save expiry"
+msgstr ""
+
+#: includes/class-amta-admin.php:384
+msgid "Search every invitation, change live expiration times, revoke access, or delete an invitation. Full secret URLs are deliberately never stored."
+msgstr ""
+
+#: includes/class-amta-admin.php:387
+msgid "Search invitations"
+msgstr ""
+
+#: includes/class-amta-admin.php:387
+msgid "Search recipient, email or link ID"
+msgstr ""
+
+#: includes/class-amta-security.php:260
+msgid "SECURE ACCESS"
+msgstr ""
+
+#: includes/class-amta-admin.php:282
+msgid "SECURE ACCESS CONTROL"
+msgstr ""
+
+#: includes/class-amta-creator.php:73
+msgid "Secure token generation failed. Please retry."
+msgstr ""
+
+#: includes/class-amta-admin.php:351
+msgid "Security by default"
+msgstr ""
+
+#: includes/class-amta-admin.php:44
+msgid "Select the link and copy it manually."
+msgstr ""
+
+#: includes/class-amta-admin.php:353
+msgid "Session authorization is rechecked on every request, even before the next scheduled cleanup."
+msgstr ""
+
+#: includes/class-amta-security.php:232
+msgid "Session unavailable"
+msgstr ""
+
+#: includes/class-amta-admin.php:284
+msgid "Share access, never passwords. Every invitation is temporary and revocable."
+msgstr ""
+
+#: includes/class-amta-security.php:276
+msgid "Sign-in is no longer possible with this link"
+msgstr ""
+
+#: includes/class-amta-admin.php:392
+msgid "Status"
+msgstr ""
+
+#: includes/class-amta-admin.php:353
+msgid "Strict expiration"
+msgstr ""
+
+#: includes/class-amta-security.php:238
+msgid "Temporarily unavailable"
+msgstr ""
+
+#: includes/class-amta-admin.php:295
+msgid "Temporary access revoked. Existing sessions have been terminated."
+msgstr ""
+
+#: includes/class-amta-security.php:234
+msgid "The allowed time for this invitation has ended. Request a fresh invitation from the site owner."
+msgstr ""
+
+#: includes/class-amta-security.php:184
+msgid "The confirmation request could not be verified."
+msgstr ""
+
+#: includes/class-amta-admin.php:296
+msgid "The expiration time was updated."
+msgstr ""
+
+#: includes/class-amta-security.php:237
+msgid "The invitation has reached its allowed login count. Ask the site owner for another invitation."
+msgstr ""
+
+#: includes/class-amta-security.php:274
+msgid "The invitation is used only when you continue. Never share this secure link publicly."
+msgstr ""
+
+#: includes/class-amta-creator.php:112
+msgid "The recipient email could not be saved. Please retry."
+msgstr ""
+
+#: includes/class-amta-security.php:235
+msgid "The site owner has disabled this temporary access. This invitation can no longer be used."
+msgstr ""
+
+#: includes/class-amta-creator.php:107
+msgid "The temporary user could not be secured. Please retry."
+msgstr ""
+
+#: includes/class-amta-security.php:153
+#: includes/class-amta-security.php:158
+#: includes/class-amta-security.php:162
+#: includes/class-amta-security.php:175
+msgid "This access link is invalid or unavailable."
+msgstr ""
+
+#: includes/class-amta-security.php:168
+msgid "This access link is no longer available."
+msgstr ""
+
+#: includes/class-amta-security.php:239
+msgid "This access link is unavailable"
+msgstr ""
+
+#: includes/class-amta-admin.php:299
+msgid "This access was already closed or could not be found."
+msgstr ""
+
+#: includes/class-amta-security.php:235
+msgid "This access was revoked"
+msgstr ""
+
+#: includes/class-amta-security.php:232
+msgid "This browser is no longer signed in. Please request another invitation or use a valid unused invitation link."
+msgstr ""
+
+#: includes/class-amta-security.php:239
+msgid "This invitation cannot be verified. Check that you received the full link or contact the site owner."
+msgstr ""
+
+#: includes/class-amta-security.php:236
+msgid "This invitation has been removed by the site owner. Please request a new access link."
+msgstr ""
+
+#: includes/class-amta-security.php:171
+msgid "This invitation has reached its use limit."
+msgstr ""
+
+#: includes/class-amta-security.php:187
+msgid "This invitation is no longer available."
+msgstr ""
+
+#: includes/class-amta-security.php:236
+msgid "This invitation was deleted"
+msgstr ""
+
+#: includes/class-amta-admin.php:344
+msgid "This limits link redemptions; existing sessions still work until the expiry or revocation."
+msgstr ""
+
+#: includes/class-amta-security.php:237
+msgid "This link has already been used"
+msgstr ""
+
+#: includes/class-amta-security.php:43
+msgid "This temporary account can only be accessed using its invitation link."
+msgstr ""
+
+#: includes/class-amta-admin.php:356
+msgid "Tip: Use the lowest role needed, select one-time use, and share the link over a trusted channel."
+msgstr ""
+
+#: includes/class-amta-security.php:238
+msgid "Too many attempts"
+msgstr ""
+
+#: includes/class-amta-security.php:150
+msgid "Too many attempts. Please try again later."
+msgstr ""
+
+#: includes/class-amta-admin.php:355
+msgid "Track invitation creation, redemptions, expiry and revocations. No third-party telemetry."
+msgstr ""
+
+#: includes/class-amta-admin.php:334
+msgid "Used as the temporary account display name."
+msgstr ""
+
+#: includes/class-amta-admin.php:337
+msgid "User role"
+msgstr ""
+
+#: includes/class-amta-admin.php:392
+msgid "Uses"
+msgstr ""
+
+#: includes/class-amta-security.php:266
+msgid "Valid until"
+msgstr ""
+
+#: includes/class-amta-creator.php:45
+msgid "You can create up to 20 accounts per batch."
+msgstr ""
+
+#: includes/class-amta-admin.php:61
+msgid "You do not have permission to create temporary users."
+msgstr ""
+
+#: includes/class-amta-admin.php:242
+msgid "You do not have permission to view this page."
+msgstr ""
+
+#: includes/class-amta-security.php:234
+msgid "Your access has expired"
+msgstr ""
+
+#: includes/class-amta-admin.php:349
+#: includes/class-amta-admin.php:378
+msgid "Your account cannot create or assign WordPress users."
+msgstr ""
+
+#: includes/class-amta-security.php:233
+msgid "Your secure access is ready"
+msgstr ""
+
+#: includes/class-amta-security.php:232
+msgid "Your sign-in session has ended"
+msgstr ""
+
+#: includes/class-amta-security.php:143
+msgid "Your temporary session is no longer available."
+msgstr ""
+
+#: includes/class-amta-admin.php:481
+msgid "A brand-new secure link is generated. Old links and sessions stay invalid."
+msgstr ""
+
+#: includes/class-amta-admin.php:178
+msgid "A secure replacement link could not be generated."
+msgstr ""
+
+#: includes/class-amta-admin.php:192
+msgid "Access restored. Copy the NEW secure link now; the old link and prior sessions remain invalid."
+msgstr ""
+
+#: includes/class-amta-admin.php:157
+msgid "Administrator restoration requires explicit confirmation and the correct permissions."
+msgstr ""
+
+#: includes/class-amta-admin.php:481
+msgid "Confirm restore"
+msgstr ""
+
+#: includes/class-amta-admin.php:483
+msgid "Delete permanently"
+msgstr ""
+
+#: includes/class-amta-admin.php:481
+msgid "Expiry (site timezone)"
+msgstr ""
+
+#: includes/class-amta-admin.php:481
+msgid "I confirm that I want to restore Administrator privileges."
+msgstr ""
+
+#: includes/class-amta-admin.php:456
+msgid "Invitation for %s"
+msgstr ""
+
+#: includes/class-amta-security.php:290
+msgid "Just for fun — no tracking, no account and no access changes."
+msgstr ""
+
+#: includes/class-amta-admin.php:464
+msgid "Link redemptions"
+msgstr ""
+
+#: includes/class-amta-admin.php:442
+msgid "Manage invitations in responsive cards. Deleted invitations disappear completely from this list; secret links are never stored in full."
+msgstr ""
+
+#: includes/class-amta-security.php:284
+msgid "Mint Dash · A little break"
+msgstr ""
+
+#: includes/class-amta-admin.php:478
+msgid "New expiry (site timezone)"
+msgstr ""
+
+#: includes/class-amta-admin.php:147
+msgid "Not allowed to restore temporary accounts."
+msgstr ""
+
+#: includes/class-amta-admin.php:47
+msgid "Permanently remove this invitation from All Links? Its access will stop immediately. A minimal token fingerprint and short audit event may be kept for status/security."
+msgstr ""
+
+#: includes/class-amta-admin.php:481
+msgid "Restore / renew"
+msgstr ""
+
+#: includes/class-amta-admin.php:182
+msgid "Restore failed or the 2-minute window has ended."
+msgstr ""
+
+#: includes/class-amta-admin.php:48
+msgid "Restore this access with a NEW secure link? The original link and all previous login sessions will remain invalid."
+msgstr ""
+
+#: includes/class-amta-admin.php:470
+msgid "Restore window remaining"
+msgstr ""
+
+#: includes/class-amta-admin.php:333
+msgid "Restored with new link"
+msgstr ""
+
+#: includes/class-amta-security.php:285
+msgid "Score"
+msgstr ""
+
+#: includes/class-amta-admin.php:481
+msgid "Set a new expiry"
+msgstr ""
+
+#: includes/class-amta-security.php:289
+msgid "Start 20-second game"
+msgstr ""
+
+#: includes/class-amta-security.php:286
+msgid "Tap the highlighted mint"
+msgstr ""
+
+#: includes/class-amta-admin.php:153
+msgid "The 2-minute restore window has ended. Create a new invitation instead."
+msgstr ""
+
+#: includes/class-amta-admin.php:472
+msgid "The 2-minute restore window is closed. Create a new invitation."
+msgstr ""
+
+#: includes/class-amta-admin.php:172
+msgid "The original expiration is too close or already passed. Select a new expiry before restoring."
+msgstr ""
+
+#: includes/class-amta-admin.php:474
+msgid "This invitation is no longer active."
+msgstr ""
+
+#: includes/class-amta-security.php:162
+msgid "This invitation was permanently deleted."
+msgstr ""
+
+#: includes/class-amta-security.php:287
+msgid "Tile %d"
+msgstr ""
+
+#: includes/class-amta-security.php:285
+msgid "Time"
+msgstr ""
+
+#: includes/class-amta-admin.php:468
+msgid "Time remaining"
+msgstr ""
+
+#: includes/class-amta-admin.php:380
+msgid "Visible invitations"
+msgstr ""
+
+#: includes/class-amta-admin.php:463
+msgid "WordPress role"
+msgstr ""
+
+#: includes/class-amta-admin.php:363
+msgid "You are in All Links. Copy these secret URLs now — each is shown only once and cannot be retrieved later."
+msgstr ""
+
+#: includes/class-amta-security.php:284
+msgid "Your access is closed, but you can play this tiny game. Tap the glowing mint as many times as you can in 20 seconds."
+msgstr ""
+
+#: includes/class-amta-security.php:284
+msgid "A little offline dinosaur runner, inspired by the classic browser game. Jump over obstacles to score points."
+msgstr ""
+
+#: includes/class-amta-security.php:285
+msgid "Best this visit"
+msgstr ""
+
+#: includes/class-amta-admin.php:480
+msgid "COPY NOW"
+msgstr ""
+
+#: includes/class-amta-admin.php:483
+msgid "Copy link"
+msgstr ""
+
+#: includes/class-amta-security.php:286
+msgid "Dinosaur-style runner. Press Space, Up Arrow, or tap to jump over obstacles."
+msgstr ""
+
+#: includes/class-amta-security.php:287
+msgid "Jump"
+msgstr ""
+
+#: includes/class-amta-security.php:284
+msgid "Mint Runner · Dino-style jump game"
+msgstr ""
+
+#: includes/class-amta-admin.php:487
+msgid "Secure URL hidden after creation — token not stored. Use a fresh invitation if you lost it."
+msgstr ""
+
+#: includes/class-amta-admin.php:480
+msgid "Secure invitation link"
+msgstr ""
+
+#: includes/class-amta-admin.php:482
+msgid "Secure link for invitation #%d"
+msgstr ""
+
+#: includes/class-amta-admin.php:485
+msgid "Shown once on this screen. After reloading, the full secret link cannot be recovered. Share privately."
+msgstr ""
+
+#: includes/class-amta-security.php:287
+msgid "Start running"
+msgstr ""
+
+#: includes/class-amta-security.php:288
+msgid "Tap the game or Jump button on mobile; Space / Up Arrow on desktop. No tracking, no saved scores."
+msgstr ""
+
+#: includes/class-amta-admin.php:381
+msgid "Your new secure links are shown INSIDE their matching invitation cards below. Copy each link now; for security it will not be shown again after reloading."
+msgstr ""
+
+#: include/class-amta-presence.php:98
+msgid "Active & Working"
+msgstr ""
+
+#: include/class-amta-presence.php:106
+msgid "Active · Idle"
+msgstr ""
+
+#: include/class-amta-presence.php:77
+msgid "All temporary sessions have been terminated."
+msgstr ""
+
+#: include/class-amta-admin.php:351
+msgid "Dashboard entered"
+msgstr ""
+
+#: include/class-amta-presence.php:99
+msgid "Dashboard reached; browser activity detected recently."
+msgstr ""
+
+#: include/class-amta-admin.php:389
+msgid "Includes invitations still Pending"
+msgstr ""
+
+#: include/class-amta-presence.php:74
+msgid "Invitation unavailable."
+msgstr ""
+
+#: include/class-amta-presence.php:90
+msgid "Link confirmed; waiting for the recipient to reach the dashboard."
+msgstr ""
+
+#: include/class-amta-admin.php:454
+msgid "Manage invitations and live dashboard presence in responsive cards. Pending becomes Active & Working only when the recipient reaches the dashboard; secret links are never stored in full."
+msgstr ""
+
+#: include/class-amta-presence.php:88
+msgid "Pending"
+msgstr ""
+
+#: include/class-amta-presence.php:83
+msgid "This invitation cannot be used."
+msgstr ""
+
+#: include/class-amta-presence.php:80
+msgid "This invitation is no longer valid."
+msgstr ""
+
+#: include/class-amta-presence.php:83
+msgid "Unavailable"
+msgstr ""
+
+#: include/class-amta-admin.php:344
+msgid "Valid access"
+msgstr ""
+
+#: include/class-amta-admin.php:389
+msgid "Valid invitations"
+msgstr ""
+
+#: include/class-amta-presence.php:91
+msgid "Waiting for the recipient to sign in and open the dashboard."
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Manage time"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Remaining now"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Current expiration"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Choose new time"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "30 minutes"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "2 hours"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "12 hours"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Specific date and time"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Exact expiration (site timezone)"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Date/time is checked by WordPress when you save."
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Apply duration to"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "From now — set total time left"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Add to current expiration"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "After saving — time remaining"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Minimum 5 minutes, maximum 365 days from now. Shortening the time affects the active session immediately; expired links cannot be revived here."
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Save new expiration"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Email accepted but not arriving? Setup checklist"
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Set up a trusted SMTP or transactional email provider using a mail plugin (for example, the GoSMTP plugin already installed on your site)."
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Use a sender address on a domain you control, then verify the provider credentials and From address."
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Configure SPF and DKIM for the sender domain; DMARC is also recommended."
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "Send a test, inspect inbox and spam, and check the provider delivery logs before enabling email OTP."
+msgstr ""
+
+#: includes/class-amta-admin.php
+msgid "This panel cannot configure a mail server or guarantee delivery. Never paste SMTP passwords into support chats."
+msgstr ""
